@@ -1,0 +1,144 @@
+{
+  "user": [
+    {
+      "name": "sanika",
+      "email": "bhanage.sanika@gmai.com",
+      "password": "welcome@123",
+      "id": 1
+    },
+    {
+      "name": "prajakta",
+      "email": "prajakta123@gmai.com",
+      "password": "ser@123",
+      "id": 2
+    },
+    {
+      "email": "priya@gmail.com",
+      "name": "priya",
+      "password": "priya@123",
+      "id": 3
+    },
+    {
+      "email": "anil@test.com",
+      "name": "anil",
+      "password": "anil123",
+      "id": 4
+    },
+    {
+      "email": "sanpro@gmail.com",
+      "name": "sanpro",
+      "password": "sanpro",
+      "id": 5
+    },
+    {
+      "email": "go@gmail.com",
+      "name": "go",
+      "password": "go",
+      "id": 6
+    },
+    {
+      "email": "tony@test.com",
+      "name": "tony",
+      "password": "tony123",
+      "id": 7
+    },
+    {
+      "email": "name@gmail.fom",
+      "name": "name",
+      "password": "name",
+      "id": 8
+    },
+    {
+      "email": "Xyg@gmail.com",
+      "name": "Xyg",
+      "password": "Xyg",
+      "id": 9
+    },
+    {
+      "email": "samiksha@gmail.com",
+      "name": "samiksha",
+      "password": "samiksha123",
+      "id": 10
+    },
+    {
+      "email": "john@test.com",
+      "name": "john",
+      "password": "jogh",
+      "id": 11
+    },
+    {
+      "email": "pqr@gm.com",
+      "name": "pqr",
+      "password": "pqr",
+      "id": 12
+    },
+    {
+      "email": "abc@gmail.com",
+      "name": "anushka",
+      "password": "abc",
+      "id": 13
+    },
+    {
+      "email": "priya@gmail.com",
+      "name": "priya",
+      "password": "priya",
+      "id": 14
+    },
+    {
+      "email": "admin@gmail.com",
+      "name": "admin",
+      "password": "123456",
+      "id": 15
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Burger King",
+      "address": "Delhi",
+      "contact": 8923802390,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Dominos",
+      "contact": 8923803310,
+      "address": "Gurgaon sector 20"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": 8923803310,
+      "address": "Delhi CP"
+    },
+    {
+      "name": "KFC Pune",
+      "address": "Pune pashan road",
+      "contact": 984093948,
+      "id": 4
+    },
+    {
+      "name": "Starbugs",
+      "address": "Pune Laxmi road",
+      "contact": 984093948,
+      "id": 5
+    },
+    {
+      "name": "star",
+      "address": "pune",
+      "contact": "8923889244",
+      "id": 6
+    },
+    {
+      "name": "FG",
+      "address": "mumbai",
+      "contact": "89238892445",
+      "id": 7
+    },
+    {
+      "name": "Pav Bhaji House",
+      "address": "Pune pashan road",
+      "contact": "8923889244",
+      "id": 8
+    }
+  ]
+}
