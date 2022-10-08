@@ -1,5 +1,5 @@
 # rest-app
-###My first vue app of "restaurants recommendation". 
+###My first vue app of "CRUD of restaurant suggestion rest-api  ". 
 ### Frontend vuejs backend rest-api
 
 ## Project setup
